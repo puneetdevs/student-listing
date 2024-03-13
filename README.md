@@ -79,5 +79,3 @@ This will run the unit tests defined in the Laravel project.
 - Node.js: >= 16
 - PHP: 8.2
 ```
-
-You can copy the above code and paste it into your `README.md` file.
