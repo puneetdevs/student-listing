@@ -78,4 +78,3 @@ This will run the unit tests defined in the Laravel project.
 - Laravel: v10
 - Node.js: >= 16
 - PHP: 8.2
-```
